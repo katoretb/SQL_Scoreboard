@@ -1,0 +1,8 @@
+name: HologramScoreboardSql
+depend: [HolographicDisplays]
+version: 1.0
+author: Kato14123
+main: me.Kato14123.HologramScoreboardSql.Main
+description: HologramScoreboardSql
+
+commands:
